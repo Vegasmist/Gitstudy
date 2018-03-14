@@ -1,2 +1,3 @@
 print("Hello world")
-print("Gello everybody")
+print("Hello everybody")
+print("Hello студенты")
